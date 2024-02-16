@@ -6,7 +6,7 @@ void setup() {
 // Основной цикл
 void loop() {
   digitalWrite(13, HIGH);
-  delay(200);
+  delay(100);
   digitalWrite(13, LOW);
   delay(2000);
 }
